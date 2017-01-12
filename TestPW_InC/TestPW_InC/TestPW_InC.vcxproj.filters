@@ -32,5 +32,8 @@
     <ClCompile Include="TestPW_InC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C filename with Spaces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
